@@ -84,7 +84,7 @@ const API_KEY = 'your_actual_key_here'
 npm run dev
 ```
 
-Open **http://localhost:5173** in your browser.
+Open **http://localhost:5173/CineScope/** in your browser.
 
 ### Step 4 — Build for production (optional)
 
